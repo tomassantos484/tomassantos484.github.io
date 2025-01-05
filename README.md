@@ -1,4 +1,4 @@
-# The Official Website of Tomas J. Santos Yciano
+# The Official Website of Tomas J. Santos Yciano (V1)
 
 Welcome to my V1 personal portfolio website! Visit here: https://www.tomassantos484.github.io
 
